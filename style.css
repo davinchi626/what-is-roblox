@@ -14,7 +14,7 @@ h1{
 
 header{
     height: 260px ; /*Высота блока*/
-    background-color: red; /*цвет фона*/
+    background-color: rgb(255, 255, 255); /*цвет фона*/
     text-align: center;
     color: rgb(12, 12, 12);
     font-size: 40px;
